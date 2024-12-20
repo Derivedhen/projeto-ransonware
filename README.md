@@ -8,7 +8,8 @@ Este pequeno repositório tem como finalidade criptografar e descriptografar um 
 ## Preparação do ambiente
 ```
 python3 install pyaes
-
+git clone https://github.com/Derivedhen/projeto-ransonware.git
+cd projeto-ransonware
 ```
 
 ## Criptografando
