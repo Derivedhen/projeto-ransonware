@@ -1,8 +1,5 @@
-# projeto-ransonware
-Projeto apresentado no Bootcamp Santander no módulo de criptografia
-
 ## Introdução
-Este pequeno repositório tem como finalidade criptografar e descriptografar um arquivo utilizando a biblioteca PYAES
+Este pequeno repositório tem como finalidade simular o famoso processo de criptografia e descriptografia de um arquivo utilizando a biblioteca PYAES.
 
 
 ## Preparação do ambiente
